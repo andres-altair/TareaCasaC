@@ -1,5 +1,5 @@
 ﻿using TareaCasaC.servicios;
-using TareaCasaC.Servicios;
+
 
 namespace TareaCasaC
 {
@@ -13,7 +13,7 @@ namespace TareaCasaC
       /// 270923-amd
       /// </summary>
       /// <param name="args"></param>
-        static void Main(String[] args)
+        static void main(String[] args)
     {
         {
 
