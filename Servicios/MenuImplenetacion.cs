@@ -12,7 +12,7 @@ namespace TareaCasaC.Servicios
     {
         /// <summary>
         /// clase que implementa la interfaz de menu
-        /// 250923-amd
+        /// 021023-amd
         /// </summary>
 
         public void mostrarMensajeBienevenida()

@@ -12,7 +12,7 @@ namespace TareaCasaC.servicios
     {
         /// <summary>
         /// muestra el mensaje bienvenida
-        /// 270923
+        /// 021023
         /// </summary>
         public void mensajeBienvenida();
 

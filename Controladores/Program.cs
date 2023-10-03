@@ -1,4 +1,5 @@
 ﻿using TareaCasaC.servicios;
+using TareaCasaC.Servicios;
 
 namespace TareaCasaC
 {
@@ -9,7 +10,7 @@ namespace TareaCasaC
 
       /// <summary>
       /// metodo de etrada de la aplicacion
-      /// 270923-amd
+      /// 021023-amd
       /// </summary>
       /// <param name="args"></param>
         static void main(String[] args)
@@ -28,7 +29,7 @@ namespace TareaCasaC
             //Si da true dentro, entrara, si no, no
             //Desde la primera iteracion debe cumplirse la condicion
             while (!cerrarMenu)
-            //tambien esta el do while
+            //tambien esta el de while
 
             {
                 opcionSeleccionar = menuInterfaz.mostrarMunuYSeleccionar();
